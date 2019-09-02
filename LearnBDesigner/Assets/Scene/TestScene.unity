@@ -154,7 +154,7 @@ MonoBehaviour:
   logTaskChanges: 0
   group: 0
   resetValuesOnRestart: 0
-  externalBehavior: {fileID: 0}
+  externalBehavior: {fileID: 11400000, guid: 1ab36a030531748408810c880d93c30e, type: 2}
   mBehaviorSource:
     behaviorName: 
     behaviorDescription: 
